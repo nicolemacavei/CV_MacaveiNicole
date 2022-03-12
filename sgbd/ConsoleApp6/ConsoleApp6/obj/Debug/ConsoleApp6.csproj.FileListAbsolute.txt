@@ -1,0 +1,7 @@
+C:\Users\macav\Documents\Facultate an II\SEMESTRUL II\sgbd\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\macav\Documents\Facultate an II\SEMESTRUL II\sgbd\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\macav\Documents\Facultate an II\SEMESTRUL II\sgbd\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\macav\Documents\Facultate an II\SEMESTRUL II\sgbd\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\macav\Documents\Facultate an II\SEMESTRUL II\sgbd\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\macav\Documents\Facultate an II\SEMESTRUL II\sgbd\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\macav\Documents\Facultate an II\SEMESTRUL II\sgbd\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb

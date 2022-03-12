@@ -1,0 +1,124 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+
+.resume{
+    width: 800px;
+    background: burlywood;
+    margin: 25px auto;
+    display: flex;
+}
+
+body {
+    background: gray;
+}
+
+.stil{
+    font-size: 25px;
+    color: gray;
+}
+
+.left{
+    background: bisque;
+    width: 220px;
+    padding: 0 25px;
+    margin-left: 35px;
+}
+
+.left .img_holder img{
+    margin-top: 20px;
+    width: 180px;
+    border-radius: 50%;
+}
+
+.left .personal_details{
+    text-transform: uppercase;
+    align-items: center;
+    width: 90%;
+    font-weight: 400;
+    letter-spacing: 2px;
+    color: #3f310d;
+}
+
+.left .imageIcons img{
+    vertical-align: middle;
+    position: relative;
+    width: 20px;
+}
+
+.left .text{
+    width: 100%;
+    font-weight: 600;
+    position: relative;
+    font-family: "Verdana Pro Light";
+    color: #3f310d;
+}
+
+.header{
+    background: #d8caa6;
+    padding: 15px 30px;
+    color: #fff;
+    height: 115px;
+}
+
+.header .name{
+    font-size: 45px;
+    font-family: "Verdana Pro Light";
+    font-size: xx-large;
+    color: #3f310d;
+}
+
+.header .about{
+    margin-top: 20px;
+    line-height: 26px;
+}
+
+.right{
+    width: calc(100% - 250px);
+}
+
+.right_inner{
+    padding: 30px;
+    color: #292b2f;
+    margin-bottom: 15px;
+}
+
+.right_inner .education{
+    margin-top: 30px;
+}
+
+.right_inner .date {
+    width: 400px;
+    padding-left: 35px;
+    color: gray;
+    letter-spacing: 3px;
+    font-size: smaller;
+}
+
+.right_inner .info{
+    width: calc(100%  - 125px);
+    padding-left: 35px;
+    font-size: large;
+    font-weight: 500;
+    position: relative;
+    color: #3f310d;
+}
+
+.right_inner .info_title{
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: #3f310d;
+}
+
+.right_inner .text {
+    padding-left: 35px;
+    width: 100%;
+    position: relative;
+}
+
