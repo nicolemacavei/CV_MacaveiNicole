@@ -32,8 +32,10 @@ body {
 
 .left .img_holder img{
     margin-top: 20px;
-    width: 180px;
-    border-radius: 50%;
+    width: 120px;
+    border-radius: 20%;
+    align-items: center;
+    margin-left: 25px;
 }
 
 .left .personal_details{
